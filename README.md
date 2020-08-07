@@ -1,4 +1,2 @@
 # Library-Management-System
-
-Java project where we can access library database search for book availability,access books and borrow them online.
-This project focuses on all admin functionalities.
+Web based application to make the access of library easy and flexible for the users and librarians which involves different activities of the library, Searching and Borrowing books ,also keep track of the loans and book returns.
